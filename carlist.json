@@ -1,0 +1,26 @@
+{ 
+    "carlist" : [
+    {
+        "name": "BMW i3",
+        "category": "Budget",
+        "persons": "4",
+        "suitcases": "1",
+        "image": "image/i3.jpg"
+    },
+    {
+        "name": "VW ID.4",
+        "category": "Standard",
+        "persons": "5",
+        "suitcases": "2",
+        "image": "image/ID4.jpeg"
+    },
+    {
+        "name": "Land Rover",
+        "category": "Luxury",
+        "persons": "7",
+        "suitcases": "4",
+        "image": "image/rover.png"
+    }
+
+]
+}
